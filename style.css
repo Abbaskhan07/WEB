@@ -1,0 +1,63 @@
+/* Шаг 13*/
+p {
+    color: #333333;
+    font-size: 16px;
+}
+/*-------------------------------------------------------------------------------------*/
+/* Шаг 19*/
+h2 {
+    font-size: 1.2rem;
+}
+
+h3 {
+    font-size: 1.1em;
+}
+/*-------------------------------------------------------------------------------------*/
+/* Шаг 14:*/
+#main-heading {
+    color: darkred;
+    font-size: 30px;
+}
+
+/* Шаг 14*/
+.highlight {
+    background-color: yellow;
+}
+/*-------------------------------------------------------------------------------------*/
+/* Шаг 17*/
+table {
+    width: 80%;
+    margin: 10px;
+    padding: 5px;
+    border: 2px solid black;
+}
+/*-------------------------------------------------------------------------------------*/
+/* Шаг 18*/
+.static-box {
+    position: static;
+    background-color: lightgray;
+    padding: 10px;
+}
+
+.relative-box {
+    position: relative;
+    top: 10px;
+    left: 10px;
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+}
+
+/* Шаг 20:*/
+.left-box {
+    float: left;
+    width: 40%;
+    background-color: lightblue;
+    padding: 10px;
+}
+
+.right-box {
+    float: right;
+    width: 40%;
+    background-color: lightgreen;
+    padding: 10px;
+}
