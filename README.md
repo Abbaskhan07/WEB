@@ -64,3 +64,5 @@ Key learning outcomes include:
 
 ## 📝 Work Process Summary & Reflection
 During this assignment, I systematically progressed from basic HTML document markup to styled layouts using CSS. Separating content (`index.html`) from presentation (`style.css`) helped me understand best practices in modern web development. Working with the CSS Box Model and positioning properties gave me practical insight into how elements flow and align on a page. The overall process was smooth and provided a strong foundation for future Web Development topics.
+
+ https://abbaskhan07.github.io/WEB/ LINK 
