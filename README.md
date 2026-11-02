@@ -1,24 +1,68 @@
-# Assignment #4: Forms and Validation
+# Assignment 6. jQuery
+Ibraimov Abbaskhan
+IT-2501
 
- Ibraimov Abbaskhan
-IT-2502
+## Part 1. Getting Started with jQuery
 
----
+### Task 0. Setup
+jQuery is included from CDN, $(document).ready` prints jQuery is ready! in the console.
 
-## Overview
-This project is a web application built with HTML5, Bootstrap 5, and JavaScript. It implements contact and registration forms using built-in HTML5 validation attributes and Bootstrap validation feedback styles.
+Screenshot:
+![Task 0](screenshots/task0.png)
 
----
+### Task 1. Selectors & CSS
+Tag, ID and class selectors, .text()`, `.html()`, `.css()`, light/dark theme buttons.
 
-## Assignment Tasks & Screenshots
+Screenshot:
+![Task 1](screenshots/task1.png)
 
-### Part 1 & 2: Contact Form
-Created a contact form with Name, Email, and Message fields, structured with proper label elements, Bootstrap form classes, and validation feedback.
-![alt text](<Снимок экрана 2026-10-11 203537.png>)
-### Part 3: Registration Form
-Developed a registration form featuring first and last names using Bootstrap Grid layout, email, password confirmation checks, gender radio buttons, hobbies checkboxes, and a country selection dropdown.
-![alt text](<Снимок экрана 2026-10-11 203611.png>)
-## Summary of Work Process
-1. Designed the user interface in index.html using semantic HTML tags and responsive Bootstrap grid components.
-2. Applied native HTML5 validation constraints directly to input elements.
-3. Created an external script in js/main.js to handle form submission events, check field validity, verify password matching, and activate Bootstrap validation feedback classes.
+## Part 2. jQuery Effects
+
+### Task 2. Visibility Methods
+Hide, Show, Toggle buttons for the status message and fun facts.
+
+Screenshot:
+![Task 2](screenshots/task2.png)
+
+### Task 3. Fade Methods
+Gallery with .fadeIn()`, `.fadeOut()`, `.fadeToggle()`.
+
+Screenshot:
+![Task 3](screenshots/task3.png)
+
+### Task 4. Slide Methods
+Three clickable headings with panels, .slideUp()`, `.slideDown()`, `.slideToggle()`.
+
+Screenshot:
+![Task 4](screenshots/task4.png)
+
+## Part 3. DOM Manipulation with jQuery
+
+### Task 5. Add & Remove Elements
+Skill list with .append()`, `.prepend()`, `.remove()`, empty skills are not allowed.
+
+Screenshot:
+![Task 5](screenshots/task5.png)
+
+### Task 6. Modifying Attributes
+Button changes the link with .attr()`.
+
+Screenshot:
+![Task 6](screenshots/task6.png)
+
+### Task 7. Form Interaction
+Live output of Name and Email using .val()` and `.text()`.
+
+Screenshot:
+![Task 7](screenshots/task7.png)
+
+## Part 4. Animations
+
+### Task 8. Basic Animation
+Skill bars start at zero width, Animate My Skills animates them to different levels with .animate()` and back to zero on the second click.
+
+Screenshot:
+![Task 8](screenshots/task8.png)
+
+## Summary
+I created a single page portfolio using HTML, CSS and jQuery. I completed the tasks one by one, tested each of them in the browser, and uploaded the project to GitHub and GitHub Pages.
